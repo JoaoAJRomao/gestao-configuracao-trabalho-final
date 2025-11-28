@@ -2,10 +2,9 @@
 
 ## Trabalho final
 
-- Trabalho individual.
+- Trabalho com equipe de no maximo 2 pessoas.
 - Mantenha seu repositorio público.
 - Prazo limite: Final da sexta aula. As 12:00 PM
-- Composição da nota: Trabalho 1 (1 ponto) + Trabalho final (Maximo: 9).
 
 Requisitos:
 • Git bash
